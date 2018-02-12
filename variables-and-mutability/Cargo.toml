@@ -1,0 +1,6 @@
+[package]
+name = "variables-and-mutability"
+version = "0.1.0"
+authors = ["uodna <uodna0@gmail.com>"]
+
+[dependencies]
